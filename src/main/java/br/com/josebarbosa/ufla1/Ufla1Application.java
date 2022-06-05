@@ -17,8 +17,7 @@ public class Ufla1Application {
 		
 		Funcionario funcionario2 = applicationcontext.getBean(Funcionario.class);
 		funcionario2.show();
-		
-		
+	
 	}
 
 }
